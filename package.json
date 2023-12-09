@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/AnatasiyaKuz/restaurant_modern_app/",
+  "homepage": "https://anatasiyakuz.github.io/restaurant_modern_app/",
   "scripts": {
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d dist",
